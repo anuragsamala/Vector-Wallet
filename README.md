@@ -1,6 +1,6 @@
 # 🌌 Vector Wallet: The Ultimate Web3 Arcade & Wallet
 
-Vector Wallet is a feature-rich, non-custodial Ethereum Sepolia wallet designed with a stunning glassmorphic interface. It combines secure transaction management with an interactive **Airdrop Arcade** and **Agentic AI** guidance to provide the most engaging Web3 experience.
+Vector Wallet is a feature-rich, non-custodial Ethereum Sepolia wallet designed with a glassmorphic interface. It combines secure transaction management with an interactive **Airdrop Arcade** to provide the most engaging Web3 experience.
 
 ![Frontend Preview](https://github.com/Prabathvsv/Vector-Wallet/raw/main/src/assets/hero.png)
 
